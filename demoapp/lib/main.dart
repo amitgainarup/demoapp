@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.black,
       ),
-      home: const MyHomePage(title: 'Subarna'),
+      home: const MyHomePage(title: 'Subarna Mitra'),
     );
   }
 }
